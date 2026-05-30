@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authfender",
+        "uuid": 15189366,
+        "checksum": "clvbna"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
